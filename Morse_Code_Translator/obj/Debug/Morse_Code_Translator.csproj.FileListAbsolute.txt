@@ -1,0 +1,66 @@
+D:\documents\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.exe.config
+D:\documents\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.csprojResolveAssemblyReference.cache
+D:\documents\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.Properties.Resources.resources
+D:\documents\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.csproj.GenerateResource.Cache
+D:\documents\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.exe
+D:\documents\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.pdb
+D:\documents\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.exe
+D:\documents\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.pdb
+D:\documents\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.Form1.resources
+D:\documents\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.exe.manifest
+D:\documents\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.application
+D:\documents\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.exe.manifest
+D:\documents\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.application
+D:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.exe.config
+D:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.exe
+D:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.pdb
+D:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.csprojResolveAssemblyReference.cache
+D:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.Form1.resources
+D:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.Properties.Resources.resources
+D:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.csproj.GenerateResource.Cache
+D:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.exe.manifest
+D:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.application
+D:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.exe
+D:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.pdb
+D:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.exe.manifest
+D:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.application
+X:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.exe.config
+X:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.exe
+X:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.pdb
+X:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.exe.manifest
+X:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.application
+X:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.exe
+X:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.pdb
+X:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.csprojResolveAssemblyReference.cache
+X:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.Form1.resources
+X:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.Properties.Resources.resources
+X:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.csproj.GenerateResource.Cache
+X:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.exe.manifest
+X:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.application
+F:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.exe.config
+F:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.exe
+F:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.pdb
+F:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.exe.manifest
+F:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.application
+F:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.exe
+F:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.pdb
+F:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.csprojResolveAssemblyReference.cache
+F:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.Form1.resources
+F:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.Properties.Resources.resources
+F:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.csproj.GenerateResource.Cache
+F:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.exe.manifest
+F:\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.application
+D:\Documents\MyDocuments\programing\oldFiles\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.Form1.resources
+D:\Documents\MyDocuments\programing\oldFiles\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.Properties.Resources.resources
+D:\Documents\MyDocuments\programing\oldFiles\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.csproj.GenerateResource.cache
+D:\Documents\MyDocuments\programing\oldFiles\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.csproj.CoreCompileInputs.cache
+D:\Documents\MyDocuments\programing\oldFiles\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.exe
+D:\Documents\MyDocuments\programing\oldFiles\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.pdb
+D:\Documents\MyDocuments\programing\oldFiles\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.exe.config
+D:\Documents\MyDocuments\programing\oldFiles\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.exe.manifest
+D:\Documents\MyDocuments\programing\oldFiles\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.application
+D:\Documents\MyDocuments\programing\oldFiles\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.exe
+D:\Documents\MyDocuments\programing\oldFiles\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\bin\Debug\Morse_Code_Translator.pdb
+D:\Documents\MyDocuments\programing\oldFiles\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.csprojAssemblyReference.cache
+D:\Documents\MyDocuments\programing\oldFiles\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.exe.manifest
+D:\Documents\MyDocuments\programing\oldFiles\computer programing\c# projects\Morse_Code_Translator\Morse_Code_Translator\obj\Debug\Morse_Code_Translator.application
